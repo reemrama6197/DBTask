@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Reem
+Build-Jdk: 17.0.2
+Implementation-Title: restservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://spring.io/projects/spring-boot/restservice
+Created-By: Maven Integration for Eclipse
+
